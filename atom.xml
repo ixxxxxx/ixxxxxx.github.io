@@ -4,7 +4,7 @@
   <title><![CDATA[iXXXXXX's Blog]]></title>
   <link href="http://ixxxxxx.github.io/atom.xml" rel="self"/>
   <link href="http://ixxxxxx.github.io/"/>
-  <updated>2018-03-04T21:38:33+08:00</updated>
+  <updated>2018-03-04T21:44:17+08:00</updated>
   <id>http://ixxxxxx.github.io/</id>
   <author>
     <name><![CDATA[ixxxxxx]]></name>
@@ -18,7 +18,10 @@
     <link href="http://ixxxxxx.github.io/blog/2018/03/04/which-is-your-option/"/>
     <updated>2018-03-04T12:37:03+08:00</updated>
     <id>http://ixxxxxx.github.io/blog/2018/03/04/which-is-your-option</id>
-    <content type="html"><![CDATA[<h1>方向</h1>
+    <content type="html"><![CDATA[<!--more-->
+
+
+<h3>方向</h3>
 
 <ul>
 <li>矿池</li>
@@ -30,7 +33,7 @@
 </ul>
 
 
-<h1>语言</h1>
+<h3>语言</h3>
 
 <ul>
 <li>C++</li>
