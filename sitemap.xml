@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://ixxxxxx.github.io/blog/2017/05/17/bitcoin/</loc>
+<loc>http://ixxxxxx.github.io/blog/2018/03/04/which-is-your-option/</loc>
+<lastmod>2018-03-04T12:37:03+08:00</lastmod>
+</url>
+<url>
+<loc>http://ixxxxxx.github.io/blog/2017/05/17/bitcoin/</loc>
 <lastmod>2017-05-17T21:13:20+08:00</lastmod>
 </url>
 <url>
-<loc>https://ixxxxxx.github.io/blog/archives/</loc>
+<loc>http://ixxxxxx.github.io/</loc>
 </url>
 <url>
-<loc>https://ixxxxxx.github.io/</loc>
+<loc>http://ixxxxxx.github.io/blog/archives/</loc>
 </url>
 <url>
-<loc>https://ixxxxxx.github.io/blog/categories/bitcoin/</loc>
+<loc>http://ixxxxxx.github.io/blog/categories/bitcoin/</loc>
 </url>
 <url>
-<loc>https://ixxxxxx.github.io/blog/categories/blockchain/</loc>
+<loc>http://ixxxxxx.github.io/blog/categories/blockchain/</loc>
 </url>
 </urlset>
