@@ -4,7 +4,7 @@
   <title><![CDATA[Category: side project | iXXXXXX's Blog]]></title>
   <link href="http://ixxxxxx.github.io/blog/categories/side-project/atom.xml" rel="self"/>
   <link href="http://ixxxxxx.github.io/"/>
-  <updated>2018-03-30T23:52:22+08:00</updated>
+  <updated>2018-03-30T23:55:09+08:00</updated>
   <id>http://ixxxxxx.github.io/</id>
   <author>
     <name><![CDATA[ixxxxxx]]></name>
@@ -20,6 +20,9 @@
     <id>http://ixxxxxx.github.io/blog/2018/03/30/news-dot-cryptoloser</id>
     <content type="html"><![CDATA[<p>自从我如同魔戒里面的咕噜一样被比特币这个魔戒所吸引，没有特别的定力是无法从这种狂热感摆脱出来的。
 正好币价低迷，又不会炒期货，但是每天还是看到很多文章，所以模仿<a href="https://news.ycombinator.com/">Hacker News</a>做了一个新闻网站，我取名<a href="https://news.cryptoloser.org/">Crypto News</a>。</p>
+
+<!--more-->
+
 
 <p>现在回想做这个网站的过程，完全是耳边有种声音在一直在催促我，让我觉得不写出来就不要做其他事。网站是用Rails开发的，由于将近一年没用Rails了，居然生疏了，忘记了一些Rails的最佳实践。最令我觉得失败的是，用了将近20天才写完，要是一年前应该最多一周就完活了吧。</p>
 
