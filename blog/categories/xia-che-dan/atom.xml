@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: 瞎扯淡 | iXXXXXX's Blog]]></title>
+  <link href="http://ixxxxxx.github.io/blog/categories/xia-che-dan/atom.xml" rel="self"/>
+  <link href="http://ixxxxxx.github.io/"/>
+  <updated>2020-08-18T15:27:06+08:00</updated>
+  <id>http://ixxxxxx.github.io/</id>
+  <author>
+    <name><![CDATA[ixxxxxx]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[我的投机/投资观]]></title>
+    <link href="http://ixxxxxx.github.io/blog/2020/08/18/invest-future/"/>
+    <updated>2020-08-18T10:18:31+08:00</updated>
+    <id>http://ixxxxxx.github.io/blog/2020/08/18/invest-future</id>
+    <content type="html"><![CDATA[<p>那就是<em><code>行情不可预测</code></em></p>
+]]></content>
+  </entry>
+  
+</feed>

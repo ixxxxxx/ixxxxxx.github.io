@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://ixxxxxx.github.io/blog/2020/08/18/invest-future/</loc>
+<lastmod>2020-08-18T10:18:31+08:00</lastmod>
+</url>
+<url>
 <loc>http://ixxxxxx.github.io/blog/2018/03/30/news-dot-cryptoloser/</loc>
 <lastmod>2018-03-30T22:46:33+08:00</lastmod>
 </url>
@@ -26,5 +30,14 @@
 </url>
 <url>
 <loc>http://ixxxxxx.github.io/blog/categories/side-project/</loc>
+</url>
+<url>
+<loc>http://ixxxxxx.github.io/blog/categories/tou-ji/</loc>
+</url>
+<url>
+<loc>http://ixxxxxx.github.io/blog/categories/tou-zi/</loc>
+</url>
+<url>
+<loc>http://ixxxxxx.github.io/blog/categories/xia-che-dan/</loc>
 </url>
 </urlset>
